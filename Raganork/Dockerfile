@@ -1,4 +1,4 @@
-FROM souravkl11/raganork:test
+FROM fusuf/whatsasena:latest
 
 RUN git clone https://github.com/realmikhaiel/test /skl/raganork
 WORKDIR /skl/raganork 
